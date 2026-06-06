@@ -1,0 +1,16 @@
+interface:
+  display_name: "Evaluar candidatos para puestos"
+  short_description: "Clasifica y prioriza candidatos para dos puestos"
+  default_prompt: "Usa $evaluar-candidatos-puestos para comparar estos PDFs de candidatos con dos puestos y publicar el reporte en Notion."
+
+dependencies:
+  tools:
+    - type: "mcp"
+      value: "notion"
+      description: "Publica y verifica el reporte en Notion"
+      transport: "streamable_http"
+      url: "https://mcp.notion.com/mcp"
+
+policy:
+  allow_implicit_invocation: true
+

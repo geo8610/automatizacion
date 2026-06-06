@@ -1,0 +1,18 @@
+REPOSITORIO: automatizacion
+
+VIDEO LOOM (maximo 5 minutos):
+PENDIENTE - Geovanny agregara el enlace antes de entregar.
+
+REPORTE PUBLICADO EN NOTION:
+https://app.notion.com/p/3773dca7975c81d08448c01b0ebb1643
+
+TIEMPO TOTAL INVERTIDO:
+1 hora
+
+CONTENIDO:
+- Skill reutilizable para comparar candidatos con dos vacantes.
+- Clasificacion por puesto A, puesto B, ambos o ninguno.
+- Lista priorizada de personas a contactar.
+- Publicacion del reporte mediante Notion MCP.
+- Instrucciones para conectar Notion en Codex, Cowork y OpenCode.
+
